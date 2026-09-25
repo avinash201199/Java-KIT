@@ -894,6 +894,7 @@ This is a curated directory of the best Java resources for every stage of your j
 
 ---
 
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
@@ -905,7 +906,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ### Contribution Guidelines
 
-- Ensure the resource is relevant to Java development
+- Ensure the resource is relevant to Python development
 - Provide a working link
 - Add a brief description if needed
 - Place it in the appropriate category
@@ -913,12 +914,33 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## Sponsorship
+
+If you find this repository valuable and want to support its growth:
+
+- Sponsor this project to help maintain and expand the collection
+- Partner with us to feature high quality tools for founders
+- Reach out for collaborations and ecosystem partnerships
+
+For sponsorship or partnership inquiries, connect via X:  
+[Avinash Singh](https://x.com/AvinashSingh_20)
+
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+##  Acknowledgments
+
+This repository is maintained by [Avinash Singh](https://x.com/AvinashSingh_20) Special thanks to all contributors who have helped curate and maintain this collection.
+
+## 💬 Community & Support
+
+- Star this repo to show your support
+- Share it with fellow founders and entrepreneurs
+- Follow for updates as we add new resources
+- Join the discussion in [Issues](https://github.com/avinash201199/Java-KIT/issues)
 
 ---
 
-**Made with ❤️ for every Java developer on their journey**
+**Made with ❤️ by [Avinash Singh](https://x.com/AvinashSingh_20)**
 
-*Inspired by [founders-kit](https://github.com/avinash201199/founders-kit)*
